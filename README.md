@@ -44,6 +44,7 @@
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
+![next](https://img.shields.io/badge/-next-fff?style=flat-square&logo=next&logoColor=000)
 
 
 
