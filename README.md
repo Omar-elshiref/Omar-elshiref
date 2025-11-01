@@ -20,7 +20,11 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I am a dedicated web developer with a solid educational foundation from ALX Africa and Udacity, known for my problem-solving abilities and attention to detail. I am passionate about creating seamless digital experiences and committed to continuous learning. I thrive in fast-paced environments, leveraging my effective communication, teamwork, and adaptability to deliver user-centered, impactful solutions. </h4>
+<h4>Front-End Developer with 3 years of hands-on experience gained through self-learning and real-world projects. Completed over 6 online courses, including several professional front-end development programs. Proficient in building responsive, high-performance web applications using Next.js, React.js, JavaScript, and TypeScript, with a strong foundation in HTML5, CSS3, Tailwind CSS, and UI/UX principles.
+
+Highly skilled in developing full-stack applications using Next.js — handling both front-end and back-end logic, API routes, database integration, and deployment. Successfully built and deployed multiple full-scale e-commerce platforms and interactive web projects that demonstrate a complete understanding of the web development lifecycle.
+
+Proven ability to develop production-ready applications independently, from concept to deployment, with expertise in API integration, state management (Redux, Context API), version control (Git/GitHub), and cross-browser optimization. Passionate about continuous learning, modern front-end frameworks, and delivering impactful digital experiences that enhance performance and user satisfaction. </h4>
 
 
 	
